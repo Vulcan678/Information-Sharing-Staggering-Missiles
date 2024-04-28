@@ -28,7 +28,7 @@ Testing the guidance laws without noise and with the target performing constant 
 
 ![image](https://github.com/Vulcan678/Information-Sharing-Staggering-Missiles/assets/153300908/f775b30d-c7cd-49bd-91ff-7635b57e110a)
 
-Implementing a Kalman filter to deal with stochastic measurements to better estimate the target's state for choosing the best acceleration command.
+Implementing a Kalman filter to deal with stochastic measurements to better estimate the target's state for choosing the best acceleration command. Resualts for requaired detruction range for 95% kill probability.
 
 ![image](https://github.com/Vulcan678/Information-Sharing-Staggering-Missiles/assets/153300908/b4768922-43bb-4ef3-b10d-c016d12a9bbf)
 
